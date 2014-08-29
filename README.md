@@ -1,4 +1,4 @@
 24-hour-game-problem
 ====================
 
-Solving a real world constraint problem
+A real world constraint problem I'm solving for a friend
